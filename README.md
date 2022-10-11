@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noni992 or Norah Banoman.
+- 👋 Hi, I’m Norah Banoman from Saudi Arabia.
 - 👀 I’m interested in programming and making games.
 - 🌱 I’m currently learning how to make games in unity.
 - Programming is not my majer but i am interseted in it.
